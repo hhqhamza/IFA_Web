@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1220"
+   height="1176"
+   viewBox="0 0 1220 1176"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="TU.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="0.20068027"
+     inkscape:cx="-199.74577"
+     inkscape:cy="587.99999"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.a{fill:#f3f3f3;font-size:980px;font-family:Roboto-BlackItalic, Roboto;font-weight:800;font-style:italic;letter-spacing:-0.04em;}</style>
+  </defs>
+  <text
+     class="a"
+     id="text8"
+     x="-29.684044"
+     y="871.72766"
+     style="font-style:italic;font-weight:800;font-size:833.09619141px;font-family:Roboto-BlackItalic, Roboto;letter-spacing:-0.04em;fill:#f3f3f3;stroke-width:1"
+     transform="scale(0.97750754,1.02301)">
+    <tspan
+       x="-29.684044"
+       y="871.72766"
+       id="tspan6"
+       style="stroke-width:1">TU</tspan>
+  </text>
+</svg>

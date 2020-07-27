@@ -1,0 +1,22 @@
+#toggle {
+    cursor: pointer;
+    z-index: 201;
+    color: transparent;
+    background-color: transparent;
+    font-size: 60px;
+    margin-left: 0px;
+    background-image: url("../assets/logo.svg");
+    background-size: contain;
+    /* background: #cccccc;; */
+    border: none;
+    /* padding-left: 20px; */
+    position:absolute;
+    top:6px;
+    left:6px;
+    outline: none !important;
+    outline-offset: none !important;
+}
+/* #toggle:hover {
+    background-color:#cccccc;
+    border: solid 1px#cccccc;    
+  } */

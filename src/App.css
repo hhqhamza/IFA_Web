@@ -1,0 +1,31 @@
+/* .App {
+  text-align: center;
+  border: 6px solid blue;
+} */
+
+.App-logo {
+  height: 77vmin;
+  width: 92vmin;
+  pointer-events: none;
+}
+
+body{
+  /* background-color: #cccccc; */
+  background-image: url("./assets/BACKGROUND.svg");
+  background-size: contain;
+  /* background-repeat: no-repeat; */
+  background-position: center;
+  /* border: 6px solid blue; */
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  padding-top: 100px;
+  padding-left: 8px;
+  padding-right: 8px;
+  /* justify-content: center; */
+  /* font-size: calc(10px + 2vmin); */
+  font: Condensed Light Roboto;
+  color: #1717E2;
+}
+
